@@ -1,4 +1,4 @@
-# Software University (SoftUni) Python-Fundamentals-Problems
+# Software University (SoftUni) Python-Fundamentals/Advanced/OOP-Problems
 
 # All Tasks are validated in the SoftUni Judge system: [judge.softuni.org](https://judge.softuni.org/)
 
